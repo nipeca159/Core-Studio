@@ -12,7 +12,8 @@ Este proyecto consiste en el desarrollo de una aplicación web para la gestión 
 El dominio elegido fue el de bienestar y actividad física, específicamente un estudio de pilates. Se escogió este tema porque actualmente es un sector en crecimiento. Además, nos gusta mucho el movimeinto y los deportes
 
 ## Diagrama ERD
-<img width="1151" height="571" alt="CORE STUDIO drawio" src="https://github.com/user-attachments/assets/4b967e4e-ccb8-4129-a949-ef36fcc39ac6" />
+<img width="1326" height="997" alt="FINAL CORE STUDIO" src="https://github.com/user-attachments/assets/da0ce153-888c-4c87-a64f-8e5d0c28ffe6" />
+
 
 ## Descripción de las tablas y restricciones
 ### Tabla Entrenadores (`cs_entrenadores`)
